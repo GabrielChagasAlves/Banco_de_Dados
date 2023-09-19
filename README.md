@@ -1,5 +1,5 @@
 ## Banco_de_Dados
-#Segue abaixo a lsita de exercicios 
+# Segue abaixo a lsita de exercicios 
 
 ![biblioteca](https://github.com/GabrielChagasAlves/Banco_de_Dados/assets/125607847/f063f796-99b8-4531-99f8-d799582ec6d1)
 
@@ -25,4 +25,3 @@
 
 [videoteca.txt](https://github.com/GabrielChagasAlves/Banco_de_Dados/files/12654895/videoteca.txt)
 
-##segue os diagramas feitos atraves do sqlOnline
