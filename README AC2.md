@@ -1,6 +1,6 @@
 ## Tabela Produtos (AGRUPAMENTO E AGREGAÇÃO)
 
-![Tabela com produtos](https://github.com/GabrielChagasAlves/Banco_de_Dados/assets/125607847/d8b58f38-e8c3-4eb8-bd94-f3f714ebf8b6)
+![Tabela com produtos](https://github.com/GabrielChagasAlves/Banco_de_Dados/assets/125607847/37fe9c84-709b-4394-b94a-53a73dfda7ae)
 [CREATE TABLE.txt](https://github.com/GabrielChagasAlves/Banco_de_Dados/files/12776104/CREATE.TABLE.txt)
 
 
